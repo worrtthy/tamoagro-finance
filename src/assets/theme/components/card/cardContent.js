@@ -1,6 +1,6 @@
 // TamoAgro
 
-// Material Dashboard 2 React Helper Functions
+// TAMOAgro Finance React Helper Functions
 import pxToRem from "assets/theme/functions/pxToRem";
 
 const cardContent = {

@@ -6,10 +6,10 @@ import PropTypes from "prop-types";
 // @mui material components
 import Menu from "@mui/material/Menu";
 
-// Material Dashboard 2 React components
+// TAMOAgro Finance React components
 import MDBox from "components/MDBox";
 
-// Material Dashboard 2 React example components
+// TAMOAgro Finance React example components
 import DefaultNavbarLink from "examples/Navbars/DefaultNavbar/DefaultNavbarLink";
 
 function DefaultNavbarMobile({ open, close }) {

@@ -1,12 +1,12 @@
 // TamoAgro
 
-// Material Dashboard 2 React base styles
+// TAMOAgro Finance React base styles
 import boxShadows from "assets/theme-dark/base/boxShadows";
 import typography from "assets/theme-dark/base/typography";
 import colors from "assets/theme-dark/base/colors";
 import borders from "assets/theme-dark/base/borders";
 
-// Material Dashboard 2 React helper functions
+// TAMOAgro Finance React helper functions
 import pxToRem from "assets/theme-dark/functions/pxToRem";
 
 const { md } = boxShadows;

@@ -2,7 +2,7 @@
 /* eslint-disable react/function-component-definition */
 // TamoAgro
 
-// Material Dashboard 2 React components
+// TAMOAgro Finance React components
 import MDBox from "components/MDBox";
 import MDTypography from "components/MDTypography";
 import MDAvatar from "components/MDAvatar";

@@ -1,11 +1,11 @@
 // TamoAgro
 
-// Material Dashboard 2 React Base Styles
+// TAMOAgro Finance React Base Styles
 import colors from "assets/theme/base/colors";
 import borders from "assets/theme/base/borders";
 import boxShadows from "assets/theme/base/boxShadows";
 
-// Material Dashboard 2 React Helper Function
+// TAMOAgro Finance React Helper Function
 import rgba from "assets/theme/functions/rgba";
 
 const { black, white } = colors;

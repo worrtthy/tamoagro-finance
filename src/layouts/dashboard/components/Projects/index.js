@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Material Dashboard 2 React - v2.2.0
+* TAMOAgro Finance React - v2.2.0
 =========================================================
 */
 
@@ -14,11 +14,11 @@ import MenuItem from "@mui/material/MenuItem";
 import Avatar from "@mui/material/Avatar";
 import Chip from "@mui/material/Chip";
 
-// Material Dashboard 2 React components
+// TAMOAgro Finance React components
 import MDBox from "components/MDBox";
 import MDTypography from "components/MDTypography";
 
-// Material Dashboard 2 React examples
+// TAMOAgro Finance React examples
 import DataTable from "examples/Tables/DataTable";
 
 // Data (Sample request data)

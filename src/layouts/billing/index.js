@@ -3,10 +3,10 @@
 // @mui material components
 import Grid from "@mui/material/Grid";
 
-// Material Dashboard 2 React components
+// TAMOAgro Finance React components
 import MDBox from "components/MDBox";
 
-// Material Dashboard 2 React examples
+// TAMOAgro Finance React examples
 import DashboardLayout from "examples/LayoutContainers/DashboardLayout";
 import DashboardNavbar from "examples/Navbars/DashboardNavbar";
 import Footer from "examples/Footer";

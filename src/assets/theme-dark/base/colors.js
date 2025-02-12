@@ -1,9 +1,9 @@
 // TamoAgro
 
 /**
- * The base colors for the Material Dashboard 2 React.
+ * The base colors for the TAMOAgro Finance React.
  * You can add new color using this file.
- * You can customized the colors for the entire Material Dashboard 2 React using thie file.
+ * You can customized the colors for the entire TAMOAgro Finance React using thie file.
  */
 
 const colors = {

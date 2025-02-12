@@ -6,12 +6,12 @@ import Grid from "@mui/material/Grid";
 import Icon from "@mui/material/Icon";
 import Tooltip from "@mui/material/Tooltip";
 
-// Material Dashboard 2 React components
+// TAMOAgro Finance React components
 import MDBox from "components/MDBox";
 import MDTypography from "components/MDTypography";
 import MDButton from "components/MDButton";
 
-// Material Dashboard 2 React context
+// TAMOAgro Finance React context
 import { useMaterialUIController } from "context";
 
 function ManagerAccount() {

@@ -10,13 +10,13 @@ import { createContext, useContext, useReducer, useMemo } from "react";
 // prop-types is a library for typechecking of props
 import PropTypes from "prop-types";
 
-// Material Dashboard 2 React main context
+// TAMOAgro Finance React main context
 const MaterialUI = createContext();
 
 // Setting custom name for the context which is visible on react dev tools
 MaterialUI.displayName = "MaterialUIContext";
 
-// Material Dashboard 2 React reducer
+// TAMOAgro Finance React reducer
 function reducer(state, action) {
   switch (action.type) {
     case "MINI_SIDENAV": {
@@ -55,7 +55,7 @@ function reducer(state, action) {
   }
 }
 
-// Material Dashboard 2 React context provider
+// TAMOAgro Finance React context provider
 function MaterialUIControllerProvider({ children }) {
   const initialState = {
     miniSidenav: false,
@@ -77,7 +77,7 @@ function MaterialUIControllerProvider({ children }) {
   return <MaterialUI.Provider value={value}>{children}</MaterialUI.Provider>;
 }
 
-// Material Dashboard 2 React custom hook for using context
+// TAMOAgro Finance React custom hook for using context
 function useMaterialUIController() {
   const context = useContext(MaterialUI);
 

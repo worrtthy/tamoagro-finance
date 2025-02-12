@@ -1,11 +1,11 @@
 // TamoAgro
 
-// Material Dashboard 2 React base styles
+// TAMOAgro Finance React base styles
 import colors from "assets/theme-dark/base/colors";
 import borders from "assets/theme-dark/base/borders";
 import boxShadows from "assets/theme-dark/base/boxShadows";
 
-// Material Dashboard 2 React helper functions
+// TAMOAgro Finance React helper functions
 // import rgba from "assets/theme-dark/functions/rgba";
 import pxToRem from "assets/theme-dark/functions/pxToRem";
 import linearGradient from "assets/theme-dark/functions/linearGradient";

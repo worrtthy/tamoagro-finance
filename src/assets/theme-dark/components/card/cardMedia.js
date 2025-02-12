@@ -1,9 +1,9 @@
 // TamoAgro
 
-// Material Dashboard 2 React Base Styles
+// TAMOAgro Finance React Base Styles
 import borders from "assets/theme-dark/base/borders";
 
-// Material Dashboard 2 React Helper Functions
+// TAMOAgro Finance React Helper Functions
 import pxToRem from "assets/theme-dark/functions/pxToRem";
 
 const { borderRadius } = borders;

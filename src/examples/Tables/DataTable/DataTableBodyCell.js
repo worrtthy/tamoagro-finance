@@ -3,7 +3,7 @@
 // prop-types is a library for typechecking of props
 import PropTypes from "prop-types";
 
-// Material Dashboard 2 React components
+// TAMOAgro Finance React components
 import MDBox from "components/MDBox";
 
 function DataTableBodyCell({ noBorder, align, children }) {

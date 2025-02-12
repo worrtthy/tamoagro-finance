@@ -1,15 +1,15 @@
 // TamoAgro
 
 /**
- * The base box-shadow styles for the Material Dashboard 2 React.
+ * The base box-shadow styles for the TAMOAgro Finance React.
  * You can add new box-shadow using this file.
- * You can customized the box-shadow for the entire Material Dashboard 2 React using thie file.
+ * You can customized the box-shadow for the entire TAMOAgro Finance React using thie file.
  */
 
-// Material Dashboard 2 React Base Styles
+// TAMOAgro Finance React Base Styles
 import colors from "assets/theme/base/colors";
 
-// Material Dashboard 2 React Helper Functions
+// TAMOAgro Finance React Helper Functions
 import boxShadow from "assets/theme/functions/boxShadow";
 
 const { black, white, tabs, coloredShadows } = colors;

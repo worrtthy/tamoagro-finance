@@ -10,14 +10,14 @@ import Icon from "@mui/material/Icon";
 import Divider from "@mui/material/Divider";
 import Fade from "@mui/material/Fade";
 
-// Material Dashboard 2 React components
+// TAMOAgro Finance React components
 import MDBox from "components/MDBox";
 import MDTypography from "components/MDTypography";
 
 // Custom styles for the MDSnackbar
 import MDSnackbarIconRoot from "components/MDSnackbar/MDSnackbarIconRoot";
 
-// Material Dashboard 2 React context
+// TAMOAgro Finance React context
 import { useMaterialUIController } from "context";
 
 function MDSnackbar({ color, icon, title, dateTime, content, close, bgWhite, ...rest }) {

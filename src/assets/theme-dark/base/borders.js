@@ -1,15 +1,15 @@
 // TamoAgro
 
 /**
- * The base border styles for the Material Dashboard 2 React.
+ * The base border styles for the TAMOAgro Finance React.
  * You can add new border width, border color or border radius using this file.
- * You can customized the borders value for the entire Material Dashboard 2 React using thie file.
+ * You can customized the borders value for the entire TAMOAgro Finance React using thie file.
  */
 
-// Material Dashboard 2 React Base Styles
+// TAMOAgro Finance React Base Styles
 import colors from "assets/theme-dark/base/colors";
 
-// Material Dashboard 2 React Helper Functions
+// TAMOAgro Finance React Helper Functions
 import pxToRem from "assets/theme-dark/functions/pxToRem";
 import rgba from "assets/theme-dark/functions/rgba";
 

@@ -1,6 +1,6 @@
 // TamoAgro
 
-// Material Dashboard 2 React Base Styles
+// TAMOAgro Finance React Base Styles
 import colors from "assets/theme/base/colors";
 import typography from "assets/theme/base/typography";
 

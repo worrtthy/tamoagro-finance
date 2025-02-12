@@ -14,19 +14,19 @@ import Divider from "@mui/material/Divider";
 import Link from "@mui/material/Link";
 import Icon from "@mui/material/Icon";
 
-// Material Dashboard 2 React components
+// TAMOAgro Finance React components
 import MDBox from "components/MDBox";
 import MDTypography from "components/MDTypography";
 import MDButton from "components/MDButton";
 
-// Material Dashboard 2 React example components
+// TAMOAgro Finance React example components
 import SidenavCollapse from "examples/Sidenav/SidenavCollapse";
 
 // Custom styles for the Sidenav
 import SidenavRoot from "examples/Sidenav/SidenavRoot";
 import sidenavLogoLabel from "examples/Sidenav/styles/sidenav";
 
-// Material Dashboard 2 React context
+// TAMOAgro Finance React context
 import {
   useMaterialUIController,
   setMiniSidenav,

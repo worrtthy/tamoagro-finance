@@ -44,7 +44,7 @@ function Footer({ light }) {
               </Icon>
             </MDBox>
             by the
-            <Link href="#" target="_blank">
+            <Link href="#">
               <MDTypography variant="button" fontWeight="medium" color={light ? "white" : "dark"}>
                 &nbsp;TAMOAgro Finance Department&nbsp;
               </MDTypography>
@@ -68,7 +68,7 @@ function Footer({ light }) {
             })}
           >
             <MDBox component="li" pr={2} lineHeight={1}>
-              <Link href="#" target="_blank">
+              <Link href="#">
                 <MDTypography
                   variant="button"
                   fontWeight="regular"
@@ -79,7 +79,7 @@ function Footer({ light }) {
               </Link>
             </MDBox>
             <MDBox component="li" px={2} lineHeight={1}>
-              <Link href="#" target="_blank">
+              <Link href="#">
                 <MDTypography
                   variant="button"
                   fontWeight="regular"
@@ -90,7 +90,7 @@ function Footer({ light }) {
               </Link>
             </MDBox>
             <MDBox component="li" px={2} lineHeight={1}>
-              <Link href="#" target="_blank">
+              <Link href="#">
                 <MDTypography
                   variant="button"
                   fontWeight="regular"
@@ -101,7 +101,7 @@ function Footer({ light }) {
               </Link>
             </MDBox>
             <MDBox component="li" pl={2} lineHeight={1}>
-              <Link href="#" target="_blank">
+              <Link href="#">
                 <MDTypography
                   variant="button"
                   fontWeight="regular"
